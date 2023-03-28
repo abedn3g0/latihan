@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgba(244, 13, 163, 0.774);
+    color: #fff;
+    padding: 10px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  main h2 {
+    margin-top: 0;
+    
+  }
+  .belanja {
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    padding: 25px;
+    display: inline-block;
+  }
+  
+  .belanja img {
+    float: left;
+    margin-right: 10px;
+    height: 100px;
+  }
+  
+  .belanja h2 {
+    margin-top: 0;
+  }
+  
+  .belanja button {
+    background-color: #ff3ccb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  main a {
+    display: block;
+    background-color: rgb(247, 33, 176);
+    color: #fff;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: rgb(252, 34, 161);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
